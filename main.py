@@ -1,5 +1,5 @@
 from datetime import datetime
 
-print("Привет, Мир!")
+print("ПОКА, МИР!")
 print("Текущая дата:",
       datetime.now())
